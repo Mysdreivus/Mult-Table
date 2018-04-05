@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iomanip>
 
+//Taken from text book c++ for object oriented programming
+
 void memError()
 {
   std::cout << "Memory Allocation error";
